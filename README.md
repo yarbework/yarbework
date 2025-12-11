@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yarbework" alt="yarbework" /></a> </p>
 
-- 🔭 I’m currently working on **Online Quiz Project**
+- 🔭 I’m currently working on **Mobile Application with React Native**
 
-- 🌱 I’m currently learning **React Native, NodeJs, NextJs**
+- 🌱 I’m currently learning **NodeJs, NextJs**
 
 - 💬 Ask me about **Full stack development**
 
